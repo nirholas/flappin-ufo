@@ -3,6 +3,11 @@
   "name": "flappin-ufo",
   "private": true,
   "version": "0.0.0",
+  "description": "A Flappy Bird-style web game where you pilot a UFO through fields of asteroids, with a global leaderboard and ghost replay.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/flappin-ufo.git"
+  },
   "homepage": ".",
   "type": "module",
   "scripts": {

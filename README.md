@@ -73,3 +73,10 @@ The API surface:
 - [public/](public/) — favicon, PWA manifest, social cover image
 - [api/](api/) — Node serverless functions for the leaderboard, backed by Upstash Redis
 - [.github/workflows/ci.yml](.github/workflows/ci.yml) — lint + test + build on every push and PR
+
+## Documentation
+
+Full documentation site: **https://nirholas.github.io/flappin-ufo/**
+
+- [Getting started](docs/getting-started.md) covers install and first run.
+- [Examples](docs/examples.md) has copy-paste snippets.

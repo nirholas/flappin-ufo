@@ -1,0 +1,28 @@
+# flappin-ufo
+
+> A Flappy Bird-style web game where you pilot a UFO through fields of asteroids. Levels get longer and tighter as you progress.
+
+flappin-ufo is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md): install, usage and reference
+- [Hosting](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#hosting)
+- [Tech](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#tech)
+- [Getting started](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#getting-started)
+- [Scripts](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#scripts)
+- [How to play](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#how-to-play)
+- [Leaderboard](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#leaderboard)
+- [Project layout](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#project-layout)
+- [Documentation](https://github.com/nirholas/flappin-ufo/blob/HEAD/README.md#documentation)
+- [AGENTS.md](https://github.com/nirholas/flappin-ufo/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/flappin-ufo/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/flappin-ufo)
+- [Issues](https://github.com/nirholas/flappin-ufo/issues)
+- [Discussions](https://github.com/nirholas/flappin-ufo/discussions)
+- [Homepage](https://nirholas.github.io/flappin-ufo/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

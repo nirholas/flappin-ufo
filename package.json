@@ -47,6 +47,12 @@
     "vitest": "^4.1.11"
   },
   "resolutions": {
-    "vite": "^7.3.7"
+    "vite": "^7.3.7",
+    "**/undici/@fastify/busboy": "^3.2.2",
+    "**/tsx/esbuild": "^0.28.1",
+    "**/@vercel/python-analysis/js-yaml": "^4.3.2",
+    "**/@vercel/python-analysis/minimatch": "^10.2.3",
+    "**/@vercel/python-analysis/smol-toml": "^1.9.0",
+    "**/@vercel/node/undici": "^6.29.1"
   }
 }

@@ -51,8 +51,10 @@
     "**/undici/@fastify/busboy": "^3.2.2",
     "**/tsx/esbuild": "^0.28.1",
     "**/@vercel/python-analysis/js-yaml": "^4.3.2",
-    "**/@vercel/python-analysis/minimatch": "^10.2.3",
+    "**/@vercel/python-analysis/minimatch": "^11.0.1",
     "**/@vercel/python-analysis/smol-toml": "^1.9.0",
-    "**/@vercel/node/undici": "^6.29.1"
+    "**/@vercel/node/undici": "^6.29.1",
+    "**/@typescript-eslint/typescript-estree/minimatch": "^11.0.1",
+    "**/glob/minimatch": "^11.0.1"
   }
 }
